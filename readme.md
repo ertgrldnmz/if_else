@@ -19,4 +19,6 @@ Console.WriteLine("Günaydın");
 string sonuc = time<=18 ? "iyi günler": "iyi geceler";
 sonuc=time>=6 && time<=11 ? "günaydın": time<=18 ?"iyi günler": "iyi geceler"; 
  Console.WriteLine(sonuc);
+
  ```
+ [www.patika.dev ](https://www.patika.dev/tr)
